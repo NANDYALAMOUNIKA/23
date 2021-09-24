@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-xnfbdghfd
-dbssvc
-=======
-these is file for converting wrk repo to stagging area
->>>>>>> Stashed changes
