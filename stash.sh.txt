@@ -1,5 +1,0 @@
- 
-=======
-these is a file 
-created by using stash cmd
->>>>>>> Stashed changes
