@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
 
-=======
-the file created to do the stash cmd
->>>>>>> Stashed changes
-=======
-the file is created 
+
+===============
+---------------
+\\\\\\\\\\\\\\\\\\
 >>>>>>> Stashed changes
