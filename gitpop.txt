@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-git changes to another file
-the files use add some more data to these file
+
 =======
-git commited the files to local repository to central repository
+git changes to another file
 >>>>>>> Stashed changes
