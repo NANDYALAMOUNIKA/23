@@ -1,5 +1,4 @@
-the data is deleted with the stash command
-fhkl
-===============
----------------
-\\\\\\\\\\\\\\\\\\
+
+=======
+the file created to do the stash cmd
+>>>>>>> Stashed changes
