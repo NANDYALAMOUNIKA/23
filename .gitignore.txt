@@ -1,0 +1,6 @@
+
+*.sh
+*.war
+these is afile to git remove 
+fjghuewdkxdegrftkj
+
