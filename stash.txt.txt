@@ -1,4 +1,0 @@
-
-=======
-these is working directory of stash directory 
->>>>>>> Stashed changes

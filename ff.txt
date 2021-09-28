@@ -1,4 +1,0 @@
-these file is created by central repo 
-these file is using to store in a local repo
-the file is in a stored command
-the file is created 
